@@ -1,5 +1,9 @@
 # LeetCode Problem 1945: Sum of Digits of String After Convert
 
+## Metrics
+- Runtime:   3ms | Beats 37.54%
+- Memory: 43.25MB | Beats 19.58%
+
 ## Topics
 - String
 - Simulation
