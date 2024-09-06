@@ -1,13 +1,8 @@
 # 3217. Delete Nodes From Linked List Present in Array
 
 ### Metrics
-- Runtime:  ms | Beats %
-- Memory: MB | Beats %
-
-### Intuition
-```
-
-```
+- Runtime:  20ms | Beats 87.14%
+- Memory: 64.56MB | Beats 51.77%
 
 ### Topics
 Array, Hash Table, Linked List
