@@ -1,8 +1,8 @@
 # 1367. Linked List in Binary Tree
 
 ### Metrics
-- Runtime:   ms | Beats %  
-- Memory: MB | Beats %
+- Runtime:  1ms | Beats 97.88%  
+- Memory: 45.30MB | Beats 18.69%
 
 ### Intuition
 ```
