@@ -1,4 +1,4 @@
-# LeetCode Problem 874: Walking Robot Simulation
+# 874. Walking Robot Simulation
 
 ## Metrics
 - Runtime:   11ms | Beats 97.82%
