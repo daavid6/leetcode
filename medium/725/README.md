@@ -1,8 +1,8 @@
 # 725. Split Linked List in Parts
 
 ### Metrics
-- Runtime:   ms | Beats %  
-- Memory: MB | Beats %
+- Runtime: 0ms | Beats 100%  
+- Memory: 43.15MB | Beats 85.09%
 
 ### Intuition
 
