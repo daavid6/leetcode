@@ -4,9 +4,6 @@
 - Runtime: 0ms | Beats 100%  
 - Memory: 43.15MB | Beats 85.09%
 
-### Intuition
-
-
 ### Topics
 Linked List
 
