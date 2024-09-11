@@ -1,8 +1,8 @@
 # 2220. Minimum Bit Flips to Convert Number
 
 ### Metrics
-- Runtime:  ms | Beats %  
-- Memory: MB | Beats %
+- Runtime: 0 ms | Beats 100.00%  
+- Memory: 40.40MB | Beats 64.36%
 
 ### Intuition
 
