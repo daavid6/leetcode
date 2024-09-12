@@ -1,8 +1,8 @@
 # 1684. Count the Number of Consistent Strings
 
 ### Metrics
-- Runtime: ms | Beats %  
-- Memory: MB | Beats %
+- Runtime: 5 ms | Beats 96.90%  
+- Memory: 45.31 MB | Beats 52.29%
 
 ### Intuition
 
