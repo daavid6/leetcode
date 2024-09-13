@@ -1,11 +1,8 @@
 # 1310. XOR Queries of a Subarray
 
 ### Metrics
-- Runtime: ms | Beats %  
-- Memory: MB | Beats %
-
-### Intuition
-
+- Runtime: 2 ms | Beats 100.0%  
+- Memory: 57.58 MB | Beats 61.65%
 
 ### Topics
 Array, Bit Manipulation, Prefix Sum
