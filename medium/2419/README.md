@@ -1,11 +1,8 @@
 # 2419. Longest Subarray With Maximum Bitwise AND
 
 ### Metrics
-- Runtime: ms | Beats %  
-- Memory: MB | Beats %
-
-### Intuition
-
+- Runtime: 2 ms | Beats 100%  
+- Memory: 58.90 MB | Beats 95.51%
 
 ### Topics
 Array, Bit Manipulation, Brainteaser
