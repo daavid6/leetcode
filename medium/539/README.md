@@ -1,10 +1,8 @@
 # 539. Minimum Time Difference
 
 ### Metrics
-- Runtime: ms | Beats %  
-- Memory: MB | Beats %
-
-### Intuition
+- Runtime: 7 ms | Beats 552.51%  
+- Memory: 45.67 MB | Beats 45.48%
 
 ### Topics
 Array, Math, String, Sorting
