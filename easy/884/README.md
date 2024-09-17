@@ -1,11 +1,8 @@
 # 884. Uncommon Words from Two Sentences
 
 ### Metrics
-- Runtime: ms | Beats %  
-- Memory: MB | Beats %
-
-### Intuition
-
+- Runtime: 2 ms | Beats 100.00%  
+- Memory: 41.59 MB | Beats 97.90%
 
 ### Topics
 Hash Table, String, Counting
