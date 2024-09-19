@@ -1,11 +1,8 @@
 # 179. Largest Number
 
 ### Metrics
-- Runtime:   ms | Beats %  
-- Memory: MB | Beats %
-
-### Intuition
-
+- Runtime: 5 ms | Beats 98.15%  
+- Memory: 43.96 MB | Beats 23.33%
 
 ### Topics
 Array, String, Greedy, Sorting
